@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-weight: 100;
+    font-size: 16px;
+}
+h1{
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 100;
+    color: #45b29a;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: 100;
+    color: #1e836c;
+}
+h3{
+    font-size: 2rem;
+    font-weight: 100;
+    color: #45b29a;
+}
+p{
+    font-size: 1.5rem;
+    color: grey;
+    font-weight: 100;
+}
+hr{
+    width: 10%;
+    border-top: 3px dotted gray;
+}
+
+
+
+.bc{
+    background-color: aquamarine;
+    padding-top: 50px;
+}
+.hc{
+    position: relative;
+    width: 700px;
+    margin: 0 auto;
+}
+.fc{
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
+.sc{
+    position: absolute;
+    left: 0;
+}
+.pc{
+    width: 12rem;
+    height: 12rem;
+    border-radius: 100;
+    margin-bottom: 50px;
+}
+.sim{
+    width: 18.5rem;
+
+}
+.simf{
+    float: left;
+}
+.simse{
+    float: right;
+}
+.ac{
+    padding: 100px 0;
+    width: 30%;
+    margin: 0 auto;
+}
+.scpp{
+    width: 40%;
+    margin: 0 auto;
+    text-align: left;
+}
+.scc-sec{
+    clear: both;
+}
+.cl{
+    clear: both;
+}
+.texc{
+    text-align: center;
+}
+.sss{
+    width: 30%;
+    margin: 0 auto;
+}
+.msg{
+    background-color: #45b29a;
+    color: white;
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    margin-top: 2rem;
+}
+.msg:hover{
+    background-color: #1e836c;
+}
+footer{
+    background-color: #E0EBE8;
+    margin-top: 100px;
+}
+.f-li{
+    width: 30%;
+    margin: 0 auto;
+}
+.fl{
+    list-style-type: none;
+}
+.f-ll{
+    float: left;
+    margin-left: 30px;
+}
+.f-a{
+    color: #45b29a;
+    text-decoration: none;
+}
+.copl{
+    clear: both;
+    margin-top: 30px;
+}
